@@ -16,3 +16,7 @@ https://danielmiessler.com/p/check-logjam-nmap/
 
 ### Use VPCFlow Logs
 verify the the flow and communication
+
+### API Gateway TLS
+  https://docs.aws.amazon.com/apigateway/latest/developerguide/rest-api-mutual-tls.html
+  
